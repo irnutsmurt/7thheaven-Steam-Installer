@@ -10,6 +10,14 @@ the poster and banner art, and restarts Steam.
 
 ---
 
+## Screenshots
+
+![7th Heaven for FFVII in Steam Big Picture mode](https://i.imgur.com/wgl7OkC.png)
+
+![7th Heaven for FFVII in Steam Big Picture mode](https://i.imgur.com/53YB0Qo.png)
+
+---
+
 ## Read this first
 
 **You must fully set up 7th Heaven before using this.** This package only adds a Steam
